@@ -9,4 +9,4 @@ pthread:
 	gcc pthread.c -std=gnu99 -lpthread -lm -o pthread
 
 clean:
-	rm openmp pthread
+	rm openmp pthread openmp2
